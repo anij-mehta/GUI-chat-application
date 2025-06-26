@@ -107,6 +107,6 @@ This is a fully functional GUI chat system built in Java. It allows users to:
 
 ## 📬 Contact
 
-Anij Mehta
-GitHub: anij-me
-LinkedIn: Anij Mehta
+Anij Mehta<br>
+🔗 [GitHub](https://github.com/anij-mehta)<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/anij-mehta)
